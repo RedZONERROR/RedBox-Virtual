@@ -44,8 +44,6 @@ RedBox is a comprehensive Android virtualization system that enables running mul
 - Independent app lifecycles
 
 ### Security Features
-- String encryption using StringFog with XOR encryption
-- Native hooks for system call interception
 - Permission management per virtual instance
 - Advertising ID virtualization (GAID/OAID)
 
